@@ -1,0 +1,19 @@
+h1{
+    text-transform: uppercase;
+}
+h2{
+    background-color:aqua;
+    color:red;
+    text-transform:lowercase
+}
+.filter {
+    text-transform: lowercase;
+
+}
+.text{
+    background-color:black;
+    color:yellow;
+}
+.link{
+    color:red;
+}
